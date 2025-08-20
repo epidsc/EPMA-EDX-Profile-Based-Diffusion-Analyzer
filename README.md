@@ -95,13 +95,7 @@ https://github.com/user-attachments/assets/c6129147-b94c-41ab-8327-88eb916cc9ce
 
 ## 📸 Screenshot
 
-https://github.com/epidsc/EPMA-EDX-Profile-Based-Diffusion-Analyzer/blob/main/screen%20shots/App/1_Initiation.png
-https://github.com/epidsc/EPMA-EDX-Profile-Based-Diffusion-Analyzer/blob/main/screen%20shots/App/2_Browse%20and%20Loading%20EPMA%20or%20EDX%20sample%20data%20csv%20file.png
-https://github.com/epidsc/EPMA-EDX-Profile-Based-Diffusion-Analyzer/blob/main/screen%20shots/App/3_Visualizing%20as%20heat%20map.png
-https://github.com/epidsc/EPMA-EDX-Profile-Based-Diffusion-Analyzer/blob/main/screen%20shots/App/4_Finding%20Diffusion%20directions.png
-https://github.com/epidsc/EPMA-EDX-Profile-Based-Diffusion-Analyzer/blob/main/screen%20shots/App/5_Analyzing%20Diffusion%20Dominant%20Directions%20and%20Clustering.png
-https://github.com/epidsc/EPMA-EDX-Profile-Based-Diffusion-Analyzer/blob/main/screen%20shots/App/6_%20C(x%2Cy)%20vs%20x%2Cy%20visualization.png
-https://github.com/epidsc/EPMA-EDX-Profile-Based-Diffusion-Analyzer/blob/main/screen%20shots/App/7_%20Fitting%20data.png
+https://github.com/epidsc/EPMA-EDX-Profile-Based-Diffusion-Analyzer/tree/main/screen%20shots/App
 
 ---
 
