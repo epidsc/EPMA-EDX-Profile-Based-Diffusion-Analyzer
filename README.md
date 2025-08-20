@@ -89,10 +89,12 @@ pip install -r requirements.txt
 ---
 
 ## 📸 Screenshot
+https://github.com/epidsc/EPMA-EDX-Profile-Based-Diffusion-Analyzer/tree/main/screen%20shots/App
 
 ---
 
 ## 📸 Demonstration Video
+https://github.com/epidsc/EPMA-EDX-Profile-Based-Diffusion-Analyzer/blob/main/demonstration%20video/Demonstration.mp4
 
 ---
 
