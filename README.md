@@ -94,7 +94,7 @@ https://github.com/epidsc/EPMA-EDX-Profile-Based-Diffusion-Analyzer/tree/main/sc
 ---
 
 ## 📸 Demonstration Video
-https://github.com/epidsc/EPMA-EDX-Profile-Based-Diffusion-Analyzer/blob/main/demonstration%20video/Demonstration.mp4
+https://github.com/user-attachments/assets/c6129147-b94c-41ab-8327-88eb916cc9ce
 
 ---
 
