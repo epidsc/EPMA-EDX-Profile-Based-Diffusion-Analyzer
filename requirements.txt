@@ -1,0 +1,9 @@
+```bash
+cat > requirements.txt << 'EOF'
+pandas
+numpy
+PyQt5
+matplotlib
+scikit-learn
+scipy
+EOF

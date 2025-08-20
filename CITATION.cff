@@ -1,0 +1,13 @@
+cat > CITATION.cff << 'EOF'
+cff-version: 1.2.0
+title: "EPMA/EDX Diffusion Profiler"
+message: "If you use this software / repository, please cite it as below."
+authors:
+  - family-names: "Uruthireswaran"
+    given-names: "Sanathanan"
+    orcid: "https://orcid.org/0009-0000-9722-9212"   
+date-released: 2025-08-20
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/epidsc/EPMA-EDX-Profile-Based-Diffusion-Analyzer"
+EOF
