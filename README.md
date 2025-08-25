@@ -22,6 +22,15 @@ In short: it bridges raw spectroscopic maps → meaningful diffusion parameters.
 
 ---
 
+### ACKNOWLEDGEMENTS
+
+* The development of this Diffusion Analyzer was greatly influenced by the foundational idea proposed by Dr. D.A.S Amarasinghe, who suggested the concept of extracting diffusion coefficients from EDX scan data.
+
+* The computational methodology, including the gradient-based clustering, multimodel fitting, and the PyQt5 GUI, were independently developed and implemented by Sanathanan Uruthireswaran. 
+
+
+---
+
 ## 📂 Input Format
 
 Input should be a **CSV file** with three columns:
